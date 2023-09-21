@@ -1,0 +1,7 @@
+Installing JSON server
+ npm intstall json-server 
+
+Watch a JSON file
+ 
+ json-server --watch data/db.json // this is not working it does'nt recognize the json-server 
+ npx json-server --watch data/db.json   // this is depends where your json file is placed
